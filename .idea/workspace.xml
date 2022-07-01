@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d2e4814-96f0-40cf-a306-e83573f2e97b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/hibernate/demo/entity/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/hibernate/demo/entity/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/hibernate/demo/entity/Course.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +142,7 @@
       <workItem from="1656673124308" duration="2900000" />
       <workItem from="1656678163726" duration="4522000" />
       <workItem from="1656700164436" duration="268000" />
-      <workItem from="1656700655907" duration="927000" />
+      <workItem from="1656700655907" duration="1316000" />
     </task>
     <servers />
   </component>
