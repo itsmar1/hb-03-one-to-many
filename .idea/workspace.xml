@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d2e4814-96f0-40cf-a306-e83573f2e97b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/hibernate/demo/entity/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luv2code/hibernate/demo/CreateCourseAndReviewsDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/hibernate/demo/entity/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/hibernate/demo/entity/Course.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +52,9 @@
       <recent name="com.luv2code.hibernate.demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FetchJoinDemo">
-    <configuration name="CreateCoursesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.CreateCoursesDemo" />
+  <component name="RunManager" selected="Application.CreateCourseAndReviewsDemo">
+    <configuration name="CreateCourseAndReviewsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.CreateCourseAndReviewsDemo" />
       <module name="hibernate-tuto" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CreateCourseAndReviewsDemo" />
         <item itemvalue="Application.FetchJoinDemo" />
         <item itemvalue="Application.EagerLazyDemo" />
         <item itemvalue="Application.GetInstructorCoursesDemo" />
         <item itemvalue="Application.DeleteCourseDemo" />
-        <item itemvalue="Application.CreateCoursesDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +144,7 @@
       <workItem from="1656678163726" duration="4522000" />
       <workItem from="1656700164436" duration="268000" />
       <workItem from="1656700655907" duration="14164000" />
-      <workItem from="1656767046730" duration="1461000" />
+      <workItem from="1656767046730" duration="2529000" />
     </task>
     <servers />
   </component>
